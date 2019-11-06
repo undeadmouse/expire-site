@@ -1,0 +1,20 @@
+{
+  "name": "expire-site",
+  "version": "1.0.0",
+  "description": "find the site will expire soon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whois",
+    "baidu"
+  ],
+  "author": "undeadmouse@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.1",
+    "whois": "^2.11.0",
+    "whois-promise": "^1.2.3"
+  }
+}
